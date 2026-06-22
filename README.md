@@ -9,7 +9,7 @@ Staff engineer, 15+ years across Google, Microsoft, Spotify and Booking.com. I w
 ### Some things I've built
 
 - **Google** — AI/ML data pipelines for commerce analytics & conversions; previously the Shopping merchant-reporting frontends.
-- **Microsoft** — built the company-wide content & discovery feed in Office 365 (Teams & Office.com) from scratch, in React / React Native.
+- **Microsoft** — built the content & discovery feed in Office 365 (Teams & Office.com) from scratch, in React / React Native.
 - **Spotify** — rebuilt Checkout & payments and led the web team behind spotify.com.
 - **Booking.com** — ran large-scale conversion experimentation on the core booking funnel and founded Booking's first web developer-experience team.
 

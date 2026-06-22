@@ -7,7 +7,7 @@ Staff engineer, 15+ years. I build products end to end and scale the systems und
 
 ### Some things I've built
 
-- **Google** — build and scale the analytics platform merchants use to understand and grow their business: large-scale data pipelines, real-time reporting, and AI-agent enablement for my team.
+- **Google** — AI/ML data pipelines for commerce analytics & conversions, plus AI-agent enablement for my team; previously the Shopping merchant-reporting frontends.
 - **Microsoft** — built the company-wide content & discovery feed in Office 365 (Teams & Office.com) from scratch, in React / React Native.
 - **Spotify** — rebuilt Checkout & payments and led the web team behind spotify.com.
 - **Booking.com** — ran large-scale conversion experimentation on the core booking funnel and founded Booking's first web developer-experience team.

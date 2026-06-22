@@ -18,9 +18,10 @@ Staff engineer, 15+ years across Google, Microsoft, Spotify and Booking.com. I w
 - **charybdis** — core-team member of the IRC daemon that powered **freenode.net** (~90K+ concurrent users at its peak).
 - Conference organiser & speaker — React Amsterdam, AmsterdamJS, React Day Berlin; programme committee for JSNation / AI Coding Summit; jury for the React & JavaScript Open Source Awards (GitNation).
 
-### Tech I reach for
+### Projects
 
-TypeScript · Python · Java · C++ · Rust · Go · React / Next.js · Node · distributed & low-latency systems · Spark / Hadoop / ClickHouse · AWS · GCP · Kubernetes
+- **[jobs.winterchill.xyz](https://jobs.winterchill.xyz)** — a job board I built that aggregates thousands of engineering roles and flags which ones offer visa sponsorship.
+- **[oldams.nl](https://oldams.nl)** — Old Amsterdam: a geocoded collection of historical photographs that became part of Amsterdam's official maps collection.
 
 ### Find me
 

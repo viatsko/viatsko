@@ -1,16 +1,16 @@
 # Valerii Iatsko
 
-**Senior Full-Stack Engineer · High-Scale Systems · AI Engineering**
+**Staff Engineer · Full-Stack · High-Scale Systems · AI Engineering**
 London, UK
 
-Software engineer, 15+ years. I build products end to end and scale the systems underneath them — petabyte-scale data pipelines, real-time streaming services, and the product surfaces on top — and I spend a lot of time making engineering teams faster.
+Staff engineer, 15+ years. I build products end to end and scale the systems underneath them — large-scale data pipelines, real-time streaming services, and the product surfaces on top — and I spend a lot of time making engineering teams faster.
 
 ### Some things I've built
 
-- **Google** — the Merchant Center analytics platform, now the primary analytics surface for **~20M merchants** (Java / Python / C++; Spanner, Bigtable, petabyte-scale pipelines). Currently building real-time conversions data and AI-agent enablement for my team.
-- **Microsoft** — **Microsoft Feed** from scratch (React / React Native): the company-wide feed in Office 365 (Teams & Office.com), **110M+ monthly active users**.
-- **Spotify** — rebuilt **Checkout & payments** (~+3% conversion) and led the web team for spotify.com.
-- **Booking.com** — **700+ A/B experiments** on the core conversion surface (a top-2 team by revenue impact) and founded Booking's first web developer-experience team.
+- **Google** — build and scale the analytics platform merchants use to understand and grow their business: large-scale data pipelines, real-time reporting, and AI-agent enablement for my team.
+- **Microsoft** — built the company-wide content & discovery feed in Office 365 (Teams & Office.com) from scratch, in React / React Native.
+- **Spotify** — rebuilt Checkout & payments and led the web team behind spotify.com.
+- **Booking.com** — ran large-scale conversion experimentation on the core booking funnel and founded Booking's first web developer-experience team.
 
 ### Open source & community
 

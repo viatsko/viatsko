@@ -24,4 +24,4 @@ Staff engineer, 15+ years across Google, Microsoft, Spotify and Booking.com. I w
 
 ### Find me
 
-[viatsko.me](https://viatsko.me) · [LinkedIn](https://www.linkedin.com/in/viatsko) · [Medium](https://medium.com/@viatsko) · viatsko@viatsko.me
+[LinkedIn](https://www.linkedin.com/in/viatsko) · [Medium](https://medium.com/@viatsko) · viatsko@viatsko.me

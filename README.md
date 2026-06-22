@@ -2,7 +2,7 @@
 
 **Staff Engineer · Full-Stack · High-Scale & Low-Latency Systems**
 
-Staff engineer, 15+ years across Google, Microsoft, Spotify and Booking.com. I work across the stack — data pipelines, backend services, and web, mobile, iOS and Android frontends — mostly on systems where scale or latency is the hard part.
+Staff engineer, 15+ years across Google, Microsoft, Spotify and Booking.com. I work across the stack — data pipelines, backend services, and web, mobile, iOS and Android frontends — mostly on systems where scale or latency is the hard part. Love coming up with original solutions to complex problems.
 
 ### Some things I've built
 

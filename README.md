@@ -14,7 +14,7 @@ Staff engineer, 15+ years across Google, Microsoft, Spotify and Booking.com. I w
 ### Open source & community
 
 - **[awesome-vscode](https://github.com/viatsko/awesome-vscode)** — creator of the curated VS Code list: **28.7k★**, featured in *Smashing Magazine*.
-- **[charybdis](https://github.com/charybdis-ircd/charybdis)** — core-team member of the IRC daemon that powered **freenode.net** (~90K+ concurrent users at its peak).
+- **[charybdis](https://github.com/charybdis-ircd/charybdis)** — former core-team member of the IRC daemon that powered **freenode.net** (~90K+ concurrent users at its peak).
 - Conference organiser & speaker — React Amsterdam, AmsterdamJS, React Day Berlin; programme committee for JSNation / AI Coding Summit; jury for the React & JavaScript Open Source Awards (GitNation).
 
 ### Projects

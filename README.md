@@ -2,8 +2,6 @@
 
 **Staff Engineer · Full-Stack · High-Scale & Low-Latency Systems**
 
-London, UK
-
 Staff engineer, 15+ years across Google, Microsoft, Spotify and Booking.com. I work across the stack — data pipelines, backend services, and web, mobile, iOS and Android on top — mostly on systems where scale or latency is the hard part.
 
 ### Some things I've built

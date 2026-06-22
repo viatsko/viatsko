@@ -20,7 +20,7 @@ Staff engineer, 15+ years across Google, Microsoft, Spotify and Booking.com. I w
 
 ### Projects
 
-- **[jobs.winterchill.xyz](https://jobs.winterchill.xyz)** — a job board I built that uses AI/ML to tailor a CV to each role and match candidates with the right openings.
+- **[jobs.winterchill.xyz](https://jobs.winterchill.xyz)** — a job board I built that uses AI/ML to tailor a CV to each role and match candidates with the right openings. *Helps you find your next summer internship!*
 - **[oldams.nl](https://oldams.nl)** — Old Amsterdam: a geocoded collection of historical photographs that became part of Amsterdam's official maps collection.
 
 ### Find me
